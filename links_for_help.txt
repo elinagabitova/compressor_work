@@ -1,0 +1,2 @@
+datasheets:
+https://pdf1.alldatasheet.com/datasheet-pdf/view/517132/MICROCHIP/dsPIC33FJ32GP302.html - микроконтроллер
