@@ -8,3 +8,7 @@ https://www.microchip.com/doclisting/SoftwareLib.aspx?category=Audio+%26+Speech&
 
 
 http://ebrombaugh.studionebula.com/synth/dsPIC_sp/index.html - прототип
+
+Общие ссылки:
+
+https://ru.wikipedia.org/wiki/Компрессор_аудиосигнала - вики (определения)
