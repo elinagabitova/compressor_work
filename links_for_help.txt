@@ -1,7 +1,10 @@
- - datasheets:
+- datasheets:
 
 https://www.alldatasheet.com/view.jsp?Searchword=Dspic33fj32gp302&gclid=Cj0KCQiAjfvwBRCkARIsAIqSWlPFmwoa5VBJuI2JRARIoviPKmA8O7q1kj87ooY2iJ8iBSoA1MQiveYaAvRcEALw_wcB - список родственных микроконтроллеров
 
 https://pdf1.alldatasheet.com/datasheet-pdf/view/517132/MICROCHIP/dsPIC33FJ32GP302.html - микроконтроллер
 
 https://www.microchip.com/doclisting/SoftwareLib.aspx?category=Audio+%26+Speech&subcat=CODEC+and+Compression+Algorithms&title= -аудиокодаки (библиотека) 
+
+
+http://ebrombaugh.studionebula.com/synth/dsPIC_sp/index.html - прототип
